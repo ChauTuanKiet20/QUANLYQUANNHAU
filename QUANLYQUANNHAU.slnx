@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="QUANLYQUANNHAU_BUS/QUANLYQUANNHAU_BUS.csproj" />
+  <Project Path="QUANLYQUANNHAU_DAL/QUANLYQUANNHAU_DAL.csproj" />
+  <Project Path="QUANLYQUANNHAU_GUI/QUANLYQUANNHAU_GUI.csproj" />
+</Solution>
